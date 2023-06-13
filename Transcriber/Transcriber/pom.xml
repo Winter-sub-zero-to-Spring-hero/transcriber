@@ -8,10 +8,10 @@
 		<version>3.1.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.bearingpoint</groupId>
 	<artifactId>Transcriber</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Transcriber</name>
+	<name>transcriber</name>
 	<description>Convertor from Audio File to Text File</description>
 	<properties>
 		<java.version>17</java.version>
